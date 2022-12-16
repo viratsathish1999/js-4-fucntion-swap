@@ -6,10 +6,7 @@ function swap(a,b){
   a=b
   b=c
   document.write(a)
+  document.write("<br>")
   document.write(b)
- 
-  
-  
-
 }
 swap(a,b)
